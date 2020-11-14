@@ -1,0 +1,48 @@
+{{ define "head" }}
+	  {{ if .Params.featuredImg -}}
+	  <style>.bg-img {background-image: url('{{.Params.featuredImg}}');}</style>
+	  {{- else if .Params.images -}}
+		    {{- range first 1 .Params.images -}}
+		    <style>.bg-img {background-image: url('{{. | absURL}}');}</style>
+		    {{- end -}}
+	  {{- end -}}
+{{ end }}
+
+{{ define "header" }}
+{{ partial "header.html" . }}
+{{ end }}
+
+
+{{ define "main" }}
+	{{- if (or .Params.images .Params.featuredImg) }}
+	<div class="bg-img"></div>
+	{{- end }}
+	<main class="site-main section-inner fit animated fadeIn faster">
+		<h1>{{ .Title }}</h1>
+
+  {{- $sectionDelimiter := "<!-- section break -->" -}}
+  {{- $rawContentSections := split .RawContent $sectionDelimiter -}}
+  {{- if gt (len $rawContentSections) 1 -}}
+
+  <div id = "about-container">
+    <div id="about-section-1">
+      {{ index $rawContentSections 0 | .RenderString }}
+    </div>
+    <div id="about-section-2">
+      {{ index $rawContentSections 1 | .RenderString }}
+    </div>
+  </div>
+  {{- else -}}
+    <div id="content-not-split-into-sections">
+      {{ .Content }}
+    </div>
+  </main>
+
+  {{- end -}}
+
+{{ end }}
+
+
+{{ define "footer" }}
+{{ partialCached "footer.html" . }}
+{{ end }}
