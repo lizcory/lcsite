@@ -18,13 +18,13 @@
 	<div class="bg-img"></div>
 	{{- end }}
 	<main class="site-main section-inner fit animated fadeIn faster">
-		<h1>{{ .Title }}</h1>
+    <h1>{{ .Title }}</h1>
 
   {{- $sectionDelimiter := "<!-- section break -->" -}}
   {{- $rawContentSections := split .RawContent $sectionDelimiter -}}
   {{- if gt (len $rawContentSections) 1 -}}
 
-  <div id = "about-container">
+  <div id = "about-container" class="content">
     <div id="about-section-1">
       {{ index $rawContentSections 0 | .RenderString }}
     </div>
