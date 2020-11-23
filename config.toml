@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = ""
 languageCode = "en-us"
 
 defaultContentLanguage = "en"
@@ -43,7 +43,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   ]
     chosen_font = "IBM Plex Sans"
 
-  homeSubtitle = "Emotions researcher. // Information designer."
+  homeSubtitle = "emotions researcher // information designer"
   logo = "uploads/profile_pic_home.png"
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   # bgImg = ""  # Homepage background-image URL
@@ -95,7 +95,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 
   [[menu.main]]
     name = "Design"
-    url = "/info-design/"
+    url = "/design/"
     weight = 30
 
   [[menu.main]]
