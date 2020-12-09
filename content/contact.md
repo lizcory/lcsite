@@ -1,7 +1,7 @@
 +++
-title = "Contact"
+title = "Contact me"
 date = "2020-10-25"
-type = "singles"
+type = "specials"
 layout = "contact-form"
 draft = false
 +++
