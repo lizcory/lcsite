@@ -5,9 +5,10 @@ draft = false
 +++
 
 
-Thanks for your note — I'll look forward to replying soon!
-
-
+Thanks for your note — I'll look forward to replying soon!   
+   \
+   \
+![Mail Received GIF](/uploads/dog-mail.gif)
 
 
 
