@@ -1,0 +1,10 @@
+<!-- FROM: https://discourse.gohugo.io/t/hanging-indent-in-md-maintaining-formatting/25932 -->
+
+{{- $p := .Page -}}
+{{- range (split .Inner "\n") -}}
+  {{- if gt (len .) 0 }}
+  <p class="ref-p">
+    {{ . | $p.RenderString }}
+  </p>
+  {{- end }}
+{{- end -}}
