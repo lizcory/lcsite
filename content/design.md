@@ -35,4 +35,5 @@ Other Work
 ### COVIC
 Since October 2020, I've tagged and archived hundreds of visualizations for Northeastern's [COVID-19 Online Visualization Collection (COVIC)](https://medium.com/the-visual-agency/the-boston-view-visualizing-complex-data-covid-19-more-745d930d1d0). The collection, which now contains over 10,000 figures, is designed as a research tool, allowing users to filter charts and illustrations by type, interactive elements, and intended message. 
 
-
+### R Programming
+Over the past year, I've coded over a dozen research- and design- related projects in [R](https://www.r-project.org/). I really enjoy tinkering with new packages and sharing what I learn with labmates and classmates. For anyone interested in getting started with R, I've compiled this list of free online courses: [Free R Programming and Statistics Courses](https://docs.google.com/document/d/1dcrgLhyRCJFPEuQwBQihwS3V4AVcZH41VTA8Ua5h3LI/edit?usp=sharing).
