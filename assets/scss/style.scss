@@ -148,7 +148,7 @@ a {
     // color: #fff;
     color: #f33c3d;
     // color:#5DA8DE;
-    text-shadow: 0 0 0.5px #fff;
+    text-shadow: 0 0 .5px #f33c3d;
   }
 }
 
@@ -688,6 +688,15 @@ hr.post-end {
     &:focus svg {
       visibility: visible;
     }
+  
+  //   table, #list-tbl { 
+  //     border-collapse:collapse 
+  //   }
+
+  //   th, td {
+  //     border:none;
+  //  }
+
   }
 
   h1:hover a.anchor svg,
@@ -698,6 +707,12 @@ hr.post-end {
   h6:hover a.anchor svg {
     visibility: visible;
   }
+}
+
+.ref-p {
+  padding-left: 40px;
+  text-indent: -40px;
+  line-height: 1.25; 
 }
 
 .footnotes {
