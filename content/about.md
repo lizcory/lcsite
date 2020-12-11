@@ -27,11 +27,6 @@ Previously
 
 ✏️ **Tutored**: with [Brown Brain Bee](http://brownbrainbee.org/), [Swearer Tutoring Enrichment in Math and Science (STEMS)](https://brown.givepulse.com/group/124230-STEMS-Swearer-Tutoring-Enrichment-in-Math-and-Science), and [Brown Elementary After-school Mentoring (BEAM)](https://brown.givepulse.com/group/120739-Community-Corps-BEAM).
 
-🏥 **Researched:** bipolar disorder as a full-time Clinical Research Coordinator at [Massachusetts General Hospital](https://www.massgeneral.org/psychiatry/treatments-and-services/dauten-family-center-for-bipolar-treatment-innovation).
-
-
-
-
 <!-- section break -->
 
 ![LC About Image](/uploads/profile_pic_about.PNG)
