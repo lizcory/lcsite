@@ -27,7 +27,7 @@ Undergraduate Thesis
 
  **+ + +**
 
-Publications
+Publications & Presentations
 --
 
 {{< references >}}
