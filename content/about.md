@@ -21,7 +21,7 @@ Now
 Previously
 --
 
-🎓 **Graduated:** from Brown University with an Sc.B. in [Cognitive Neuroscience](https://bulletin.brown.edu/the-college/concentrations/cogn/) (Honors, [Phi Beta Kappa](https://www.brown.edu/academics/college/degree/phi-beta-kappa)).
+🎓 **Graduated:** from Brown University with an Sc.B. in [Cognitive Neuroscience](https://bulletin.brown.edu/the-college/concentrations/cogn/) (Honors, *magna cum laude*, [Phi Beta Kappa](https://www.brown.edu/academics/college/degree/phi-beta-kappa)).
 
 ✍🏻 **Wrote & edited:** for *[the Indy](https://www.theindy.org/)*.
 
