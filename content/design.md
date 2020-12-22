@@ -38,7 +38,7 @@ Since October 2020, I've tagged and archived hundreds of visualizations for Nort
  **+ + +**
 
 ### R Programming
-Over the past year, I've coded over a dozen research- and design- related projects in [R](https://www.r-project.org/). I really enjoy tinkering with new packages and sharing what I learn. For anyone interested in getting started with R, I've compiled this list of free online courses:  
+Over the past year, I've coded over a dozen research- and design- related projects in [R](https://www.r-project.org/). I really enjoy tinkering with new packages and sharing what I learn. For anyone interested in getting started with R, I've compiled this list of free online courses:
 [Free R Programming and Statistics Courses](https://docs.google.com/document/d/1dcrgLhyRCJFPEuQwBQihwS3V4AVcZH41VTA8Ua5h3LI/edit?usp=sharing).
 
  **+ + +**
