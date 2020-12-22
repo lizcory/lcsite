@@ -52,7 +52,7 @@ Honors & Awards
 --
 - Dean of the College Premium for Excellence in Cognitive Science - *May 2018*
 - Graduated *[magna cum laude](https://www.brown.edu/academics/college/degree/commencement/honors)* with Honors, Brown University - *May 2018*
-- Elected to Phi Beta Kappa, Rhode Island Alpha Chapter - *April 2018*
+- Elected to Phi Beta Kappa, [Rhode Island Alpha Chapter](https://www.brown.edu/academics/college/degree/phi-beta-kappa) - *April 2018*
 - Elected to Sigma Xi Scientific Research Honors Society - *March 2018* 
 - Karen T. Romer Undergraduate Teaching and Research Award (UTRA) - *May 2017*
 

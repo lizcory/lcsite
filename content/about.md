@@ -21,11 +21,13 @@ Now
 Previously
 --
 
-🎓 **Graduated:** from Brown University with an Sc.B. in [Cognitive Neuroscience](https://bulletin.brown.edu/the-college/concentrations/cogn/) (Honors, *magna cum laude*, [Phi Beta Kappa](https://www.brown.edu/academics/college/degree/phi-beta-kappa)).
+🎓 **Graduated:** from Brown University with an Sc.B. in [Cognitive Neuroscience](https://bulletin.brown.edu/the-college/concentrations/cogn/) (Honors, *magna cum laude*, Phi Beta Kappa).
 
 ✍🏻 **Wrote & edited:** for *[the Indy](https://www.theindy.org/)*.
 
 ✏️ **Tutored**: with [Brown Brain Bee](http://brownbrainbee.org/), [Swearer Tutoring Enrichment in Math and Science (STEMS)](https://brown.givepulse.com/group/124230-STEMS-Swearer-Tutoring-Enrichment-in-Math-and-Science), and [Brown Elementary After-school Mentoring (BEAM)](https://brown.givepulse.com/group/120739-Community-Corps-BEAM).
+
+🏥 **Researched**: treatments for bipolar disorder at [Massachusetts General Hospital](https://www.massgeneral.org/condition/manic-depression-bipolar-disorder).
 
 <!-- section break -->
 
