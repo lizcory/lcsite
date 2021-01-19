@@ -25,7 +25,7 @@
 
 <!-- FORM BEGINS BELOW. Code from: https://brianli.com/how-to-create-a-contact-form-in-hugo-with-netlify-forms/ -->
 
-<form name="contact" class="contact-form fit" action="/thank-you/" method="POST" data-netlify="true">
+<form name="contact" class="contact-form fit" action="/thank-you/" method="POST" netlify-honeypot="bot-field" data-netlify="true">
     <input type="hidden" name="form-name" value="contact" />
     <!-- Text input-->
     <div class="form-group">
@@ -53,6 +53,11 @@
         <label class="col-md-4 control-label" for=""></label>
         <textarea class="form-control" id="contact-form-message" name="Message" placeholder="What's up?" rows="8"></textarea>
     </div>
+    <!-- Bot honeypot-->
+    <div class = "hidden">
+        <label>Don’t fill this out if you’re human: <input name="bot-field" /></label>
+    </div>
+
     <!-- Button -->
     <div class="form-group">
         <button type="submit" value="Submit" id="Form-submit">Submit</button>
