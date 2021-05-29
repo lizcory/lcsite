@@ -18,7 +18,7 @@ Affective Trajectories
 
 Emotion Variation
 --
-[![Emo Var Img](/viz/emovarhome2.png)](https://lizcory.github.io/emotion-variation/)
+[![Emo Var Img](/viz/emovarhome3.png)](https://lizcory.github.io/emotion-variation/)
 
 **OVERVIEW:** This visualization charts the variation in one person's emotional experiences and physiological changes over two weeks. To unfold key trends in the data, the project features animations on page load and buttons allowing users to reconfigure the dataset at their own pace.
 
