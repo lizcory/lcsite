@@ -10,11 +10,12 @@ Now
 
 📍 **Based in:** Boston, MA
 
-👔 **Working:** with Dr. Karen Quigley & Dr. Lisa Feldman Barrett as a full-time Research Technician in the [Interdisciplinary Affective Science Lab](https://www.affective-science.org/) & learning about variation in emotional experiences.
+👔 **Working:** with Dr. Karen Quigley & Dr. Lisa Feldman Barrett as a Research Technician in the [Interdisciplinary Affective Science Lab](https://www.affective-science.org/) & learning about variation in emotional experiences.
 
-📚 **Studying**: Information Design and Data Visualization through Northeastern University's  [Master's of Science program](https://camd.northeastern.edu/program/information-design-and-data-visualization-ms/).
+📚 **Studying**: Information Design and Data Visualization through the [Master's of Science program](https://camd.northeastern.edu/program/information-design-and-data-visualization-ms/) at Northeastern University.
 
-📖 **Reading**: *[Race After Technology](https://www.ruhabenjamin.com/race-after-technology)* by Ruha Benjamin & *[W.E.B. Du Bois's Data Portraits: Visualizing Black America](https://www.ruhabenjamin.com/race-after-technology)* edited by Whitney Battle-Baptiste and Britt Rusert.
+📖 **Reading**: *[W.E.B. Du Bois's Data Portraits: Visualizing Black America](https://www.ruhabenjamin.com/race-after-technology)* edited by Whitney Battle-Baptiste and Britt Rusert; 
+*[Weapons of Math Destruction](https://weaponsofmathdestructionbook.com)* by Cathy O'Neil.
 ### +++
 
 Previously

@@ -10,9 +10,22 @@ Affective Trajectories
 
 **OVERVIEW:** How do our feelings shift over time? Do we tread a similar affective path each day or chart a new one? This project illustrates the emotional journeys of six individuals over a two-week period. The design includes animation and small multiples to highlight how feelings can shift rapidly and intensely for some and stay stagnant for others. 
 
-🧰 **Built with:** R, HTML, CSS  
+🧰 **Built with:** R, HTML/CSS  
 🗄️ **Data source**: [Interdisciplinary Affective Science Lab](https://www.affective-science.org/)  
 🔗 **[View on Github Pages](https://lizcory.github.io/affective-trajectories/)**  
+
+***
+
+Psychologist Testimony in Congress 1946-2016
+--
+[![Psych Test Bar Img](/viz/psych-test-bar.png)](https://lizcory.github.io/psych-testimony/)  
+[![Psych Test Tree Img](/viz/psych-test-tree-2.png)](https://lizcory.github.io/psych-testimony/)
+
+**OVERVIEW:** The United States Congress frequently calls on experts weigh in on proposed legislation. This project presents a brief history of US Congressional testimony given by psychologists 1946-2016. Highlights from each decade are shown using scrolling animations. After these highlights, users can to explore individual testimonies by brushing the final bar chart to update the table below it. The last visualization shows the top witnesses in committees with the most psychologist testimonies.
+
+🧰 **Built with:** D3.js, HTML/CSS  
+🗄️ **Data source**: [Social Scientists Before Congress](https://osf.io/e3h98/)  
+🔗 **[View on Github Pages](https://lizcory.github.io/psych-testimony/)**  
 
 ***
 
@@ -20,9 +33,9 @@ Emotion Variation
 --
 [![Emo Var Img](/viz/emovarhome3.png)](https://lizcory.github.io/emotion-variation/)
 
-**OVERVIEW:** This visualization charts the variation in one person's emotional experiences and physiological changes over two weeks. To unfold key trends in the data, the project features animations on page load and buttons allowing users to reconfigure the dataset at their own pace.
+**OVERVIEW:** This visualization shows the variation in one person's emotional experiences and physiological patterns over two weeks. To unfold key trends in the data, the project features animations on page load and buttons allowing users to reconfigure the dataset at their own pace.
 
-🧰 **Built with:** D3.js, HTML, CSS  
+🧰 **Built with:** D3.js, HTML/CSS  
 🗄️ **Data source**: [Interdisciplinary Affective Science Lab](https://www.affective-science.org/)  
 🔗 **[View on Github Pages](https://lizcory.github.io/emotion-variation/)**  
 
