@@ -29,4 +29,5 @@ Words in:
   * [‘Til Blue Screen of Death Do Us Part](http://www.theindy.org/886) - *April 29, 2016*
   * [Intelligent Recline](http://www.theindy.org/792) - *February 18, 2016*
   * [The Young and the Ratless](http://www.theindy.org/778) - *February 12, 2016*
+  * [Hide Your Cats, Hide Your Mice](http://www.theindy.org/728) - *November 13, 2015*
   * [Look Ma, No Hands](http://www.theindy.org/662) - *October 2, 2015*

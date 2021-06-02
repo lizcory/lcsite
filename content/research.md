@@ -6,17 +6,17 @@ type = "single"
 
 Current Projects
 --
-As a Research Technician in the [Interdisciplinary Affective Science Lab](https://www.affective-science.org/), I work on two longitudinal studies:
-
-1. 📱 **The first project tests the usability & efficacy of a smartphone-based stress resilience program.** 
-    * **KEY QUESTION**: *Does this training program reduce psychological distress and physiological stress responses during a standardized stress task?*
-    * **HOW**: We use a pre-/post- design and an active control group. Before and after training, we complete psychophysiological testing, including ambulatory electrocardiography (ECG), impedance cardiography (ICG), and blood pressure aquisition. Day to day, I oversee (remote) data collection & participant recruitment, manage undergraduate research assistants, and create data analysis & visualization pipelines in R.
+As a Research Technician in the [Interdisciplinary Affective Science Lab](https://www.affective-science.org/), I've worked on two longitudinal studies:
     
-2. 💓 **The second project aims to map individual variation in emotional experiences.** 
+1. 💓 **Mapping individual variation in emotional experiences.** 
     * **KEY QUESTION**: *How do both the psychological and physiological components of real-world emotional experiences vary within and across individuals?*
-    * **HOW**: For two weeks, participants are outfitted daily with ambulatory physiological recording sensors & devices. When significant changes in heart rate occur, they are prompted via smartphone to report on their emotional experiences. Before and after this two-week period, participants complete lab-based psychophysiological testing. We've collected one round of data and are preparing to collect a confirmatory sample when it is COVID-safe. 
+    * **METHOD**: For two weeks, participants wear ambulatory physiological recording equipment. Significant changes in heart rate trigger smartphone prompts asking participants about their emotions and current context. Before and after this two-week period, participants complete lab-based psychophysiological testing. We've collected one set of data and are now preparing to collect a confirmatory sample. 
         * Results from the first sample: ["Context-aware experience sampling reveals the scale of variation in affective experience."(Hoemann et. al, 2020)](https://www.nature.com/articles/s41598-020-69180-y). 
         * An interactive visualization I designed & coded to illustrate the above paper's key findings: [Emotion Variation](https://lizcory.github.io/emotion-variation/).
+
+2. 📱 **Testing the usability & efficacy of a smartphone-based stress resilience program.** 
+    * **KEY QUESTION**: *Does this training program reduce psychological distress and physiological stress responses during a standardized stress task?*
+    * **METHOD**: We tested this program using a pre-/post- design and an active control group. Before and after the three-week training period, we measured participants' physiology and performance under stress. Day to day, I oversaw (remote) data collection & participant recruitment, supervised undergraduate research assistants, and created data analysis & visualization pipelines in R.
 
  **+ + +**
 

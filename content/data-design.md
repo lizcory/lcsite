@@ -48,7 +48,7 @@ Vagus Nerve
 
 **OVERVIEW:** The tenth cranial nerve in the human body is called the "vagus," meaning "wandering" in Latin. True to its name, the vagus travels farther than any other nerve in the human [autonomic nervous system](https://www.britannica.com/science/autonomic-nervous-system). Some of its most distant stops are in the gut. There, its "afferent" fibers—those traveling up from the body to the brain—sense a variety of mechanical, chemical, and thermal information critical for regulating metabolism and eating. 
 
-These illustrations cover the gross anatomy of the left and right vagus nerves and their target organs in the gut. Their aim is to simplify complex anatomical information into a schematic to aid scientific exploration and hypothesis generation. You can find the reading list that informed my drawings [here](https://docs.google.com/document/d/12ZI4LeGkfk-XaSoTpGH5MZz129sgaOmk7cBtNQrrCpI/edit?usp=sharing).
+These illustrations cover the gross anatomy of the left and right vagus nerves and their target organs in the gut. Their aim is to aid scientific exploration and hypothesis generation by schematizing complex anatomical information. You can find the reading list that informed my drawings [here](https://docs.google.com/document/d/12ZI4LeGkfk-XaSoTpGH5MZz129sgaOmk7cBtNQrrCpI/edit?usp=sharing).
 
 🧰 **Built with:** Adobe Illustrator  
 🔗 **SVGs:** [Left](/viz/vagus/vn-left.svg); [Right](/viz/vagus/vn-right.svg)  
