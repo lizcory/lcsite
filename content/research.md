@@ -18,23 +18,23 @@ As a Research Technician in the [Interdisciplinary Affective Science Lab](https:
     * **KEY QUESTION**: *Does this training program reduce psychological distress and physiological stress responses during a standardized stress task?*
     * **METHOD**: We tested this program using a pre-/post- design and an active control group. Before and after the three-week training period, we measured participants' physiology and performance under stress. Day to day, I oversaw (remote) data collection & participant recruitment, supervised undergraduate research assistants, and created data analysis & visualization pipelines in R.
 
- **+ + +**
+---
 
 Undergraduate Thesis
 --
 
 🤔 My honors thesis project investigated how people learn the efficacy of their cognitive effort. You can find a copy of my defense slides [here](https://docs.google.com/presentation/d/1kELW9qbjPnlN2WxLBnIG2UhgR-GqpEHP/edit#slide=id.p1). This work was supervised by [Dr. Amitai Shenhav](https://www.shenhavlab.org/) and was awarded Brown University's Dean of the College Premium for Excellence in Cognitive Science.
 
- **+ + +**
+---
 
 Publications & Presentations
 --
 
 {{< references >}}
 
- **Cory, L.**, Coleman, M., Nielson, C., Feldman, M., Hoemann, K., Khan, Z.,  M., Devlin, M., Dy, J., Barrett, L. F., & Quigley, K. S., & Wormwood, J. B. (2020).    [Affect predicts intertemporal choice in daily life.](https://society-for-affective-science.org/list-of-sas-virtual-posters-2020/entry/5146/?gvid=7225) Research accepted for presentation at the annual meeting of the Society for Affective Science, San Francisco, CA. [Poster | COVID-19 Virtual]
+ **Cory, L.**, Coleman, M., Nielson, C., Feldman, M., Hoemann, K., Khan, Z.,  M., Devlin, M., Dy, J., Barrett, L. F., & Quigley, K. S., & Wormwood, J. B. (2020).    [Affect predicts intertemporal choice in daily life](https://society-for-affective-science.org/list-of-sas-virtual-posters-2020/entry/5146/?gvid=7225). Research accepted for presentation at the annual meeting of the Society for Affective Science, San Francisco, CA. [Poster | COVID-19 Virtual]
 
-  Coleman, M., **Cory, L.**, Nielson, C., Feldman, M., Hoemann, K., Khan, Z.,  M., Devlin, M., Dy, J., Barrett, L. F., & Quigley, K. S., & Wormwood, J. B. (2020).    [Distress decreases perceived future value of small rewards](https://society-for-affective-science.org/list-of-sas-virtual-posters-2020/entry/5118/?gvid=7225) Research accepted for presentation at the annual meeting of the Society for Affective Science, San Francisco, CA. [Poster | COVID-19 Virtual]
+ Coleman, M., **Cory, L.**, Nielson, C., Feldman, M., Hoemann, K., Khan, Z.,  M., Devlin, M., Dy, J., Barrett, L. F., & Quigley, K. S., & Wormwood, J. B. (2020).    [Distress decreases perceived future value of small rewards](https://society-for-affective-science.org/list-of-sas-virtual-posters-2020/entry/5118/?gvid=7225). Research accepted for presentation at the annual meeting of the Society for Affective Science, San Francisco, CA. [Poster | COVID-19 Virtual]
 
  Rakhilin, M., **Cory, E.V.**, Hall, N.E., Greenebaum, S.L., Amado, S., Davis, B., Shannon, A., Deckersbach, T., Sylvia, L.G., Nierenberg, A. A. (2018). Can’t Wait: Increased Delayed Discounting of Reward Predicts Unemployment. Association for Behavioral and Cognitive Therapies 52nd Annual Convention. [Poster] 
 
