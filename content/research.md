@@ -46,7 +46,7 @@ Publications & Presentations
 
 {{< /references >}}
 
- **+ + +**
+---
 
 Honors & Awards
 --
