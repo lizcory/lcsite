@@ -59,7 +59,7 @@ Other Work
 --
 
 ### COVIC
-In 2020, I tagged and archived hundreds of visualizations for Northeastern's [COVID-19 Online Visualization Collection (COVIC)](https://medium.com/the-visual-agency/the-boston-view-visualizing-complex-data-covid-19-more-745d930d1d0). The collection, which now contains over 10,000 figures, serves as a research tool, allowing users to filter charts and illustrations by type, interactive elements, and intended message. 
+In 2020, I tagged and archived hundreds of visualizations for Northeastern's [COVID-19 Online Visualization Collection (COVIC)](https://covic-archive.org/index.html). The collection, which now contains over 10,000 figures, serves as a research tool, allowing users to filter charts and illustrations by type, interactive elements, and intended message. 
 
  **+ + +**
 
