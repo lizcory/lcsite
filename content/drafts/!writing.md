@@ -2,6 +2,7 @@
 title = "Writing"
 date = 2020-11-22
 type = "single"
+draft = true
 +++
 
 Recent coursework:

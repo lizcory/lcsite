@@ -1,36 +1,33 @@
 +++
-title = "About me"
-date = "2020-11-22"
-type = "specials"
-layout = "about-me"
+title = "Hi, I'm Liz!"
+date = "2022-10-02"
+type = "single"
+draft = false
 +++
+<!-- type = "specials"
+layout = "about-me" -->
 
 Now
 --
 
-📍 **Based in:** Boston, MA
+📍 **Based in** Boston, MA.
 
-👔 **Working:** with Dr. Karen Quigley & Dr. Lisa Feldman Barrett as a Research Technician in the [Interdisciplinary Affective Science Lab](https://www.affective-science.org/) & learning about variation in emotional experiences.
+⚙️ **Working on** data design for public health at [Concentric by Ginkgo](https://www.concentricbyginkgo.com/).
 
-📚 **Studying:** Information Design and Data Visualization through the [Master's of Science program](https://camd.northeastern.edu/program/information-design-and-data-visualization-ms/) at Northeastern University.
+✨ **Energized by** biking around the city, new reads on [Libby](https://www.overdrive.com/apps/libby), all-day breakfast.
 
-📖 **Reading:** *[W.E.B. Du Bois's Data Portraits: Visualizing Black America](https://www.ruhabenjamin.com/race-after-technology)* edited by Whitney Battle-Baptiste and Britt Rusert; 
-*[Weapons of Math Destruction](https://weaponsofmathdestructionbook.com)* by Cathy O'Neil.
+<!-- 📖 **Reading:** *[book name](book-link)* by Author -->
 ### +++
 
 Previously
 --
 
-🎓 **Graduated:** from Brown University with an Sc.B. in [Cognitive Neuroscience](https://bulletin.brown.edu/the-college/concentrations/cogn/) (Honors, *magna cum laude*, Phi Beta Kappa).
+🎓 **Studied** [Cognitive Neuroscience](https://bulletin.brown.edu/the-college/concentrations/cogn/) (Sc.B) at Brown University and [Information Design and Data Visualization](https://camd.northeastern.edu/program/information-design-and-data-visualization-ms/) (MS) at Northeastern University.
 
-✍🏻 **Wrote & edited:** for *[the Indy](https://www.theindy.org/)*.
-
-✏️ **Tutored:** with [Brown Brain Bee](http://brownbrainbee.org/), [Swearer Tutoring Enrichment in Math and Science (STEMS)](https://brown.givepulse.com/group/124230-STEMS-Swearer-Tutoring-Enrichment-in-Math-and-Science), and [Brown Elementary After-school Mentoring (BEAM)](https://brown.givepulse.com/group/120739-Community-Corps-BEAM).
-
-🏥 **Researched:** treatments for bipolar disorder at [Massachusetts General Hospital](https://www.massgeneral.org/condition/manic-depression-bipolar-disorder).
+🔍 **Researched** variation in emotional experiences with Dr. Karen Quigley & Dr. Lisa Feldman Barrett at the [Interdisciplinary Affective Science Lab](https://www.affective-science.org/).
 
 <!-- section break -->
 
-![LC About Image](/uploads/profile_pic_about.PNG)
+<!-- ![LC About Image](/uploads/profile_pic_about.PNG) -->
 
 

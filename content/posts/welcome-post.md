@@ -4,6 +4,6 @@ date: 2020-11-22T21:48:24-05:00
 draft: false
 ---
 
-Thanks for checking out my posts! You can expect occasional blog-like miscellany in this section covering: data viz, R programming & pedagogy, science & tech studies, and poetry. 
+Thanks for checking out my posts! You can expect occasional blog-like miscellany covering: data viz, R programming & pedagogy, science & tech studies, and poetry. 
 
-If you'd like to chat about anything further, feel free to [send me a message](/contact/). 
+If you'd like to chat, feel free to reach out [here](/contact/) or on [Twitter](https://twitter.com/evcory). 

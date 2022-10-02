@@ -15,56 +15,59 @@
 
 
 {{ define "main" }}
-{{- if (or .Params.images .Params.featuredImg) }}
-<div class="bg-img"></div>
-{{- end }}
 
+    {{- if (or .Params.images .Params.featuredImg) }}
+    <div class="bg-img"></div>
+    {{- end }}
 
-<main class="site-main section-inner fit animated fadeIn faster">
-  <h1>{{ .Title }}</h1>
+    <main class="site-main section-inner thin animated fadeIn faster">
+        
+    <h1>{{ .Title }}</h1>
 
-<!-- FORM BEGINS BELOW. Code from: https://brianli.com/how-to-create-a-contact-form-in-hugo-with-netlify-forms/ -->
+    <!-- FORM BEGINS BELOW. Code from: https://brianli.com/how-to-create-a-contact-form-in-hugo-with-netlify-forms/ -->
+    
+    <div class = "content">
+        <form name="contact" class="contact-form" action="/thank-you/" method="POST" netlify-honeypot="bot-field" data-netlify="true">
+            <input type="hidden" name="form-name" value="contact" />
+            <!-- Text input-->
+            <div class="form-group">
+                <label class="col-md-4 control-label" for="Name"></label>
+                <div class="col-md-4">
+                    <input id="contact-form-name" name="Name" type="text" placeholder="Name" class="form-control input-md" required="" autocomplete="off">
+                </div>
+            </div>
+            <!-- Text input-->
+            <div class="form-group">
+                <label class="col-md-4 control-label" for="Email"></label>
+                <div class="col-md-4">
+                    <input id="contact-form-email" name="Email" type="email" placeholder="Email Address" class="form-control input-md" required="" autocomplete="off">
+                </div>
+            </div>
+            <!-- Text input-->
+            <div class="form-group">
+                <label class="col-md-4 control-label" for="Subject"></label>
+                <div class="col-md-4">
+                    <input id="contact-form-subject" name="Subject" type="text" placeholder="Subject" class="form-control input-md" required="" autocomplete="off">
+                </div>
+            </div>
+            <!-- Textarea -->
+            <div class="form-group">
+                <label class="col-md-4 control-label" for=""></label>
+                <textarea class="form-control" id="contact-form-message" name="Message" placeholder="What's up?" rows="8"></textarea>
+            </div>
+            <!-- Bot honeypot-->
+            <div class = "hidden">
+                <label>Don’t fill this out if you’re human: <input name="bot-field" /></label>
+            </div>
 
-<form name="contact" class="contact-form fit" action="/thank-you/" method="POST" netlify-honeypot="bot-field" data-netlify="true">
-    <input type="hidden" name="form-name" value="contact" />
-    <!-- Text input-->
-    <div class="form-group">
-        <label class="col-md-4 control-label" for="Name"></label>
-        <div class="col-md-4">
-            <input id="contact-form-name" name="Name" type="text" placeholder="Name" class="form-control input-md" required="" autocomplete="off">
-        </div>
-    </div>
-    <!-- Text input-->
-    <div class="form-group">
-        <label class="col-md-4 control-label" for="Email"></label>
-        <div class="col-md-4">
-            <input id="contact-form-email" name="Email" type="email" placeholder="Email Address" class="form-control input-md" required="" autocomplete="off">
-        </div>
-    </div>
-    <!-- Text input-->
-    <div class="form-group">
-        <label class="col-md-4 control-label" for="Subject"></label>
-        <div class="col-md-4">
-            <input id="contact-form-subject" name="Subject" type="text" placeholder="Subject" class="form-control input-md" required="" autocomplete="off">
-        </div>
-    </div>
-    <!-- Textarea -->
-    <div class="form-group">
-        <label class="col-md-4 control-label" for=""></label>
-        <textarea class="form-control" id="contact-form-message" name="Message" placeholder="What's up?" rows="8"></textarea>
-    </div>
-    <!-- Bot honeypot-->
-    <div class = "hidden">
-        <label>Don’t fill this out if you’re human: <input name="bot-field" /></label>
+            <!-- Button -->
+            <div class="form-group">
+                <button type="submit" value="Submit" id="Form-submit">Submit</button>
+            </div>
+        </form>
     </div>
 
-    <!-- Button -->
-    <div class="form-group">
-        <button type="submit" value="Submit" id="Form-submit">Submit</button>
-    </div>
-</form>
-
-</main>
+    </main>
 
 {{ end }}
 
