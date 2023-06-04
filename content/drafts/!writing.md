@@ -5,7 +5,7 @@ type = "single"
 draft = true
 +++
 
-Recent coursework:
+Coursework:
 --
 
 * [Boston Transportation Emissions: Stuck in the Slow Lane](https://spark.adobe.com/page/ox4qTGu6XIi8V/) - *December 9, 2020*
