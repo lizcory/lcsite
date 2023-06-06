@@ -1,5 +1,5 @@
 +++
-title = "Hi, I'm Liz!"
+title = "About me"
 date = "2022-10-02"
 type = "single"
 draft = false

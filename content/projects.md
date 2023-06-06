@@ -46,7 +46,7 @@ My role included:
 🤝 **Collaborators**: Daniella Fernandes, Anna Campbell, Dana Bullister  
 🧰 **Built with**: Adobe Illustrator  
 🗄️ **Data sources**: 1) frequency of bird sightings by type in the U.S. as reported to iNaturalist.com in 2019 and 2020; 2) frequency of Google searches for the phrase ‘local hiking’ 2019, 2020; 3) share of leisure trips accounted for by camping Pre- and Post- COVID-19, per Kampgrounds of America's [2020 North American Camping Special Report: North American Camping and the Effects of COVID-19](https://outdoorrecreation.wi.gov/Documents/Research%20Library%20Page%20files/Additional/Camping%20and%20the%20Effects%20of%20Covid-19_May2020.pdf); 4) number of trips made to National Parks in 2019 and 2020 coded from 1 - 51+ visits, per the National Recreation and Park Association's [2020 Engagement With Parks Report](https://www.nrpa.org/globalassets/2020-engagement-report.pdf).  
-🔗 **PDF:** [High resolution graphic and plaque](/viz/stepping-out/2022_stepping-out_design-and-plaque.pdf)
+🔗 **[PDF](/viz/stepping-out/2022_stepping-out_design-and-plaque.pdf)**
 
 ***
 
