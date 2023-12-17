@@ -15,9 +15,10 @@ Now
 ⚙️ **Working on** data design for public health at [Concentric by Ginkgo](https://www.concentricbyginkgo.com/).
 
 ✨ **Energized by** biking around the city, new reads on [Libby](https://www.overdrive.com/apps/libby), all-day breakfast.
-
 <!-- 📖 **Reading:** *[book name](book-link)* by Author -->
-### +++
+<!-- ### +++ -->
+<!-- ***   -->
+<br>
 
 Previously
 --

@@ -1,6 +1,6 @@
 +++
 title = "Data Viz & Design Projects"
-date = "2022-10-02"
+date = "2023-12-16"
 type = "single"
 +++
 
@@ -69,9 +69,9 @@ My role included:
 🗄️ **Data source**: Twitter API, [ACLU Legislation Affecting LGBTQ Rights Across the Country](https://www.aclu.org/legislation-affecting-lgbtq-rights-across-country-2021?redirect=legislation-affecting-lgbt-rights-across-country)
 🔗 **[View on Github Pages](https://lizcory.github.io/trans_activism/)**    
 
-***
+<!-- *** -->
 
-Emotion Variation
+<!-- Emotion Variation
 --
 [![Emo Var Img](/viz/emovarhome3.png)](https://lizcory.github.io/emotion-variation/)
 
@@ -79,7 +79,7 @@ Emotions can show up in many different ways to account for the diversity of situ
 
 🧰 **Built with**: D3.js, HTML/CSS  
 🗄️ **Data source**: [Interdisciplinary Affective Science Lab](https://www.affective-science.org/)  
-🔗 **[View on Github Pages](https://lizcory.github.io/emotion-variation/)**  
+🔗 **[View on Github Pages](https://lizcory.github.io/emotion-variation/)**   -->
 
 ***
 
