@@ -16,19 +16,80 @@
 	{{- if (or .Params.images .Params.featuredImg) }}
 	<div class="bg-img"></div>
 	{{- end }}
+
 	<main class="site-main section-inner thin animated fadeIn faster">
 		<h1>{{ .Title }}</h1>
-		<div class="content">
-			{{ .Content | replaceRE "(<h[1-6] id=\"([^\"]+)\".+)(</h[1-6]+>)" `${1}<a href="#${2}" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a>${3}` | safeHTML }}
+		
+		{{ if and (gt .WordCount 400 ) (.Params.toc) }}
+
+		<div class = "content-and-toc">
+
+			<div class="content">
+				{{ .Content | replaceRE "(<h[1-6] id=\"([^\"]+)\".+)(</h[1-6]+>)" `${1}<a href="#${2}" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a>${3}` | safeHTML }}
+			</div>
+			{{- if .Params.comments }}
+			<div id="comments" class="thin">
+				{{ partial "comments.html" . }}
+			</div>
+			{{- end }}
+
+
+			<aside class = "hide-in-mobile">
+				{{ .TableOfContents }}
+			</aside>
+
 		</div>
-		{{- if .Params.comments }}
-		<div id="comments" class="thin">
-			{{ partial "comments.html" . }}
-		</div>
-		{{- end }}
+
+		{{ else }}
+
+			<div class="content">
+				{{ .Content | replaceRE "(<h[1-6] id=\"([^\"]+)\".+)(</h[1-6]+>)" `${1}<a href="#${2}" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a>${3}` | safeHTML }}
+			</div>
+			{{- if .Params.comments }}
+			<div id="comments" class="thin">
+				{{ partial "comments.html" . }}
+			</div>
+			{{- end }}
+			
+		{{ end }}
+
 	</main>
+
+	<script>
+
+		window.addEventListener('DOMContentLoaded', () => {
+		
+			const observer = new IntersectionObserver(entries => {
+			entries.forEach(entry => {
+				const id = entry.target.getAttribute('id');
+				if (entry.intersectionRatio > 0) {
+				document.querySelector(`nav li a[href="#${id}"]`).parentElement.classList.add('active');
+				} else {
+				document.querySelector(`nav li a[href="#${id}"]`).parentElement.classList.remove('active');
+				}
+			});
+			});
+		
+			// Track all sections that have an `id` applied
+			document.querySelectorAll('h2[id]').forEach((h2) => {
+				observer.observe(h2);
+			});
+		
+		});
+
+		function clearActiveStatesInTableOfContents() {
+    		document.querySelectorAll('aside nav li').forEach((section) => {
+        		section.classList.remove('active');
+    		});
+		}
+
+
+	</script>
+
 {{ end }}
 
 {{ define "footer" }}
 {{ partialCached "footer.html" . }}
 {{ end }}
+
+

@@ -28,6 +28,10 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+  [markup.tableOfContents]
+    endLevel = 2
+    ordered = false
+    startLevel = 2
 
 
 [taxonomies]
@@ -51,7 +55,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
     chosen_font = "IBM Plex Sans"
 
   homeSubtitle = ""
-  logo = "uploads/pro-pic-sm.png"
+  logo = "uploads/pro-pic-sm_.png"
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   # bgImg = ""  # Homepage background-image URL
 

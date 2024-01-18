@@ -2,6 +2,7 @@
 title = "Data Viz & Design Projects"
 date = "2023-12-16"
 type = "single"
+toc = true
 +++
 
 Affective Trajectories
