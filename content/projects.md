@@ -17,7 +17,7 @@ How do our feelings shift over time? Do we tread a similar affective path each d
 
 ***
 
-Psychologist Testimony in Congress 1946-2016
+Psychologist Testimony
 --
 [![Psych Test Bar Img](/viz/psych-test-bar.png)](https://lizcory.github.io/psych-testimony/)  
 
@@ -29,7 +29,7 @@ This project presents a brief history of US Congressional testimony given by psy
 
 ***
 
-Stepping Out During the COVID-19 Pandemic
+Stepping Out
 --
 
 [![Stepping Out Elevator Door Img](/viz/stepping-out/stepping-out_mock_and_insitu.png)](/viz/stepping-out/2022_stepping-out_design-and-plaque.pdf)  
@@ -51,7 +51,7 @@ My role included:
 
 ***
 
-Trans Rights are Human Rights
+Trans Rights
 --
 [![Trans Rights Map](/viz/trans-rights/tr-map.png)](https://lizcory.github.io/trans_activism/)
 
