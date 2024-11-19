@@ -67,7 +67,7 @@ My role included:
 
 🤝 **Collaborators**: Rachel Peterson  
 🧰 **Built with**: JavaScript, HTML/CSS, Mapbox  
-🗄️ **Data source**: Twitter API, [ACLU Legislation Affecting LGBTQ Rights Across the Country](https://www.aclu.org/legislation-affecting-lgbtq-rights-across-country-2021?redirect=legislation-affecting-lgbt-rights-across-country)
+🗄️ **Data source**: Twitter API, [ACLU Legislation Affecting LGBTQ Rights Across the Country](https://www.aclu.org/legislation-affecting-lgbtq-rights-across-country-2021?redirect=legislation-affecting-lgbt-rights-across-country)  
 🔗 **[View on Github Pages](https://lizcory.github.io/trans_activism/)**    
 
 <!-- *** -->
