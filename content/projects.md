@@ -101,7 +101,7 @@ Other Work
 --
 
 ### COVIC
-In 2020, I tagged and archived hundreds of visualizations for Northeastern's [COVID-19 Online VIsualization Collection (COVIC)](https://covic-archive.org/index.html). The collection—which now contains over 10,000 figures—serves as a research tool, allowing users to filter charts and illustrations by type, interactive elements, and intended message. 
+During the COVID-19 pandemic, I tagged and archived hundreds of visualizations for Northeastern's [COVID-19 Online VIsualization Collection (COVIC)](https://covic-archive.org/index.html). The collection—which now contains over 10,000 figures—serves as a research tool, allowing users to filter charts and illustrations by type, interactive elements, and intended message. 
 
  **+ + +**
 
