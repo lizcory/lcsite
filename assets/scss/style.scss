@@ -506,6 +506,7 @@ p.img-404 {
 #home-title {
   margin: 0;
   text-align: center;
+  letter-spacing: 2.1px;
 }
 
 #home-subtitle {
@@ -514,8 +515,10 @@ p.img-404 {
   text-align: center;
   line-height: normal;
   font-size: .7em;
-  font-style: italic;
-  opacity: .9;
+  // font-style: italic;
+  // opacity: .9;
+  font-weight: 200;
+  @include dimmed;
 }
 
 #home-social {
@@ -544,8 +547,9 @@ p.img-404 {
 
 #home-footer {
   text-align: center;
-  font-size: .6em;
+  font-size: .5em;
   line-height: normal;
+  font-weight: 200;
   @include dimmed;
 
   p {

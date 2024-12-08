@@ -15,23 +15,24 @@
 	<div id="spotlight" class="animated fadeIn">
 		<div id="home-center">
 
-			<div class="image">
+			<!-- <div class="image">
 				{{ with .Site.Params.logo }}<img src="{{.}}" alt="Logo" 
 				style="max-width: 40%; height: auto; display: block; margin-left: auto; margin-right: auto; background-color: rgba(0,0,0,0);"/>{{end}}
-			</div>
+			</div> -->
 
 			<h1 id="home-title">{{ .Site.Title }}</h1>
 			{{- with .Site.Params.homeSubtitle }}
 			<p id="home-subtitle">{{.}}</p>
 			{{- end }}
+			<nav id="home-nav" class="site-nav">
+				{{ partialCached "menu.html" . }}
+			</nav>
+			<br>
 			{{- with .Site.Params.social }}
 			<div id="home-social">
 				{{ partialCached "social-icons.html" . }}
 			</div>
 			{{- end }}
-			<nav id="home-nav" class="site-nav">
-				{{ partialCached "menu.html" . }}
-			</nav>
 		</div>
 		<div id="home-footer">
 			<p>
