@@ -82,7 +82,7 @@ Emotions can show up in many different ways to account for the diversity of situ
 🗄️ **Data source**: [Interdisciplinary Affective Science Lab](https://www.affective-science.org/)  
 🔗 **[View on Github Pages](https://lizcory.github.io/emotion-variation/)**   -->
 
-***
+<!-- ***
 
 Vagus Nerve 
 --
@@ -108,4 +108,4 @@ During the COVID-19 pandemic, I tagged and archived hundreds of visualizations f
 ### R Programming 
 Over the past several years, I've come to really enjoy tinkering with new [R](https://www.r-project.org/) packages and sharing what I learn. For anyone interested in getting started with R, here's a list of free online courses I update every few months:
 [Free R Programming and Statistics Courses](https://docs.google.com/document/d/1dcrgLhyRCJFPEuQwBQihwS3V4AVcZH41VTA8Ua5h3LI/edit?usp=sharing).
-
+ -->
